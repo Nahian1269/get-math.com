@@ -1,0 +1,9 @@
+.new{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#next{
+    height: 133vh;
+}
